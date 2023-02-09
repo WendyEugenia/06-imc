@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+}
+.template{
+  background-color: azure;
+
+}
+body{
+  padding-left: 15px;
+}
+
+#paragraph-result{
+  margin-top: 50px;
+}
+
+input {
+  margin-top: 5px;
+  width: 200px;
+}
+
